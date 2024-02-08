@@ -25,3 +25,5 @@
 - git add .
 - git commit -m"test sur branch celia"
 - git push
+- git checkout celia
+- git merge celia ==> pour fusionner avec dev
