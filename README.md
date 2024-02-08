@@ -25,5 +25,5 @@
 - git add .
 - git commit -m"test sur branch celia"
 - git push
-- git checkout celia
-- git merge celia ==> pour fusionner avec dev
+- git checkout dev ===> se mettre sur la branche sur laquelle on veux fusionner une uatre branche
+- git merge celia ==> puis git merge la branche concerner, pour fusionner avec dev
